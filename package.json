@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "@expo/ngrok": "^4.1.0"
+    "@expo/ngrok": "^4.1.0",
+    "expo": "^52.0.37",
+    "expo-router": "^4.0.17"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/react": "~18.3.12"
   }
 }
